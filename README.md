@@ -176,7 +176,7 @@ Review the help information and best practices for this tool.
 
 
 ## Install `rust`
-This install make take some time so be patient.
+This install may take some time, so be patient.
 
 	curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 
