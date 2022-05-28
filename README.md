@@ -63,14 +63,12 @@ To install on `kali` we can use `apt install` as follows:
 
 ## Optional - Install `sublime` text editor
 
+	https://www.sublimetext.com/docs/linux_repositories.html
 
-	cd Downloads
-	wget -qO - https://download.sublimetext.com/sublimehq-pub.gpg | sudo apt-key add -
-	sudo apt-get install apt-transport-https
-	echo "deb https://download.sublimetext.com/ apt/stable/" | sudo tee /etc/apt/sources.list.d/sublime-text.list
-	sudo apt-get update\nsudo apt-get install sublime-text
+## Optional - Install Visual Studio Code
 
-
+	https://code.visualstudio.com/docs/setup/linux
+	
 ## Optional - Install `Eclipse` IDE
 You can optionally install `Eclipse` which is an integrated development environment (IDE) for Java, C, etc.
 
